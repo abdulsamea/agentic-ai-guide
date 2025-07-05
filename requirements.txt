@@ -1,0 +1,5 @@
+pandas
+pydantic
+langchain
+python-dotenv
+ipykernel
