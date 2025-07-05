@@ -3,3 +3,9 @@ pydantic
 langchain
 python-dotenv
 ipykernel
+langchain_community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
