@@ -3,9 +3,16 @@ pydantic
 langchain
 python-dotenv
 ipykernel
-langchain_community
 pypdf
 bs4
 arxiv
 pymupdf
 wikipedia
+langchain-text-splitters
+langchain-openai
+langchain-community
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
