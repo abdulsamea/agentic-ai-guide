@@ -41,4 +41,4 @@ if __name__=="__main__":
     uvicorn.run(app,host="127.0.0.1",port=8000)
 
 
-## run via python serve.py in the directory and hit http:`27.0.0.1:8080/docs for swagger docs api`
+## run via python serve.py in the directory and hit http:`127.0.0.1:8080/docs for swagger docs api`
